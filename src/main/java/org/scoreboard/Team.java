@@ -9,7 +9,7 @@ public class Team {
     int score;
 
     public Team() {
-        this.teamName = "No Name Given";
+        this.teamName = "Enter Team Name";
         this.score = 0;
     }
 
