@@ -8,9 +8,6 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * JavaFX App
- */
 public class App extends Application {
 
     @Override
@@ -20,7 +17,6 @@ public class App extends Application {
         primaryStage.setScene(new Scene(root, 400, 230));
         primaryStage.show();
     }
-
 
     public static void main(String[] args) {
         launch(args);

@@ -1,4 +1,7 @@
-org\scoreboard\Controller$1.class
+org\scoreboard\Main\Subject.class
+org\scoreboard\Main\Team.class
 org\scoreboard\App.class
-org\scoreboard\Team.class
-org\scoreboard\Controller.class
+org\scoreboard\Main\Observer.class
+org\scoreboard\View\ScoreboardView.class
+org\scoreboard\ViewModel\ScoreboardViewModel.class
+org\scoreboard\View\EditorView.class
